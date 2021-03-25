@@ -1,9 +1,0 @@
-{
-  "tech": "wcs",
-  "headers": [
-    "icm.h",
-    "wingdi.h",
-    "wcsplugin.h"
-  ],
-  "displayName": "Windows Color System"
-}

@@ -1,7 +1,0 @@
-{
-  "tech": "winhttp",
-  "headers": [
-    "winhttp.h"
-  ],
-  "displayName": "Windows HTTP Services (WinHTTP)"
-}

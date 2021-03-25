@@ -1,9 +1,0 @@
-{
-  "tech": "http",
-  "headers": [
-    "httpserv.h",
-    "http.h",
-    "httpp.h"
-  ],
-  "displayName": "HTTP Server API"
-}
