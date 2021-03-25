@@ -1,9 +1,0 @@
-{
-  "tech": "dwm",
-  "headers": [
-    "n/a",
-    "winuser.h",
-    "dwmapi.h"
-  ],
-  "displayName": "Desktop Window Manager (DWM)"
-}

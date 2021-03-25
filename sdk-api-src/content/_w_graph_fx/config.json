@@ -1,6 +1,0 @@
-{
-  "tech": "w_graph_fx",
-  "headers": [
-    "windows.graphics.effects.interop.h"
-  ]
-}
